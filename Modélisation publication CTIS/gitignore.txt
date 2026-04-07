@@ -1,0 +1,25 @@
+# Données (ne jamais versionner les données brutes si sensibles)
+data/*.csv
+data/*.xlsx
+
+# Modèles sérialisés (volumineux)
+models/*.pkl
+models/*.joblib
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.env
+venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
