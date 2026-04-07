@@ -1,7 +1,7 @@
 # CTIS Clinical Trials — IA de prédiction de publication des résultats
 
 > Projet exploratoire de machine learning appliqué aux données du **Clinical Trials Information System (CTIS)** de l'Agence Européenne des Médicaments (EMA).
-
+Données CTIS extraites en date du 12 Mar 2026.
 ---
 
 ## Objectif
@@ -58,8 +58,6 @@ ctis-ia/
 
 ## Résultats
 
-*(À compléter après exécution du notebook 03)*
-
 | Modèle | AUC-ROC (CV) | F1-score (CV) |
 |---|---|---|
 | Logistic Regression | 0.921 ± 0.011| 0.435 ± 0.012 |
@@ -87,4 +85,4 @@ ctis-ia/
 
 ## Auteur
 Sara LE LAY
-Projet exploratoire — 2025
+Projet exploratoire — 2026
